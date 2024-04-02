@@ -1,12 +1,18 @@
-`TODO: Add a nice screenshot of the app!`
 
-# Class XX final project
+
+# Class 45 final project: Q&A Sessions
+
+![Q&A Sessions - desktop view - home](https://github.com/liz-garcia/Q-A-sessions/assets/141901981/835802c5-e7b6-4292-ab71-cbd9833c8c24)
 
 This is the final project for the HackYourFuture curriculum we did as a class using the MERN stack by following the agile methodology with our team and a group of mentors. A quick guide to what we built:
 
-> TODO: Add short description of the app
+### Q&A sessions
+Our project is titled Q&A sessions. As students at HackYourFuture, our weekly Q&A sessions are vital. These sessions are the heartbeat of our learning process, where we seek advice, clarity and practical solutions from the guidance of our mentors. Currently, these interactions take place within our class channel in Slack.
 
-`[Click here for the Demo version](TODO: add link)`
+However, how amazing would it be if we had a dedicated space to archive and share all these valuable exchanges? A repository where every question, every answer, every troubleshooting tip could be stored and accessed not only by us, but by students worldwide. We believe these educational conversations are a treasure of knowledge, and that’s where our project comes in, a platform where HYF students can share questions, answers, and insights.
+
+
+[Click here for the Demo version](https://c45-group-c-f97969269a84.herokuapp.com/)
 
 ## 1. Setup
 
